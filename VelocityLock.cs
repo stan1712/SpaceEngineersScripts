@@ -4,7 +4,7 @@
 ##############################################################################*/
 
 // Minimum Velocity to trigger the door lock.
-double minVelocity = 0.05;
+double minVelocity = 1.0;
 
 // Custom Tag to put on the lockable elements (doors, hatches).
 string Doors_NameTag = "[VelocityLock]";
